@@ -1,2 +1,3 @@
-# ocsf-pydantic
-A pydantic data model for OCSF
+# OCSF Pydantic
+A pydantic data model for OCSF.
+
